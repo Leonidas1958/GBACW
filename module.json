@@ -1,0 +1,29 @@
+{
+	"name": "civil-war-sheet",
+	"title": "Civil War Sheet",
+	"description": "A module containing a compendium pack",
+	"author": "Leonidas",
+	"version": "1.0.0",
+	"minimumCoreVersion": "0.6.0",
+	"compatibleCoreVersion": "0.7.9",
+	"url": "https://github.com/Leonidas1958/GBACW/",
+	"manifest": "https://raw.githubusercontent.com/Leonidas1958/GBACW/master/GBACW/main/module.json",
+	"download": "https://github.com/Leonidas1958/GBACW/archive/master.zip",
+	"module": "civil-war-sheet",
+	
+	"packs": [{
+			"name": "civil-war-actor",
+			"label": "Civil War Actor",
+			"system": "sandbox",
+			"path": "./packs/civil-war-actor.db",
+			"entity": "Actor"
+			},
+		{
+			"name": "civil-war-item",
+			"label": "Civil War Item",
+			"system": "sandbox",
+			"path": "./packs/civil-war-item.db",
+			"entity": "Item"
+		}
+	]
+}
