@@ -13,14 +13,14 @@
 	"packs": [	{
 			"name": "civil-war-actor",
 			"label": "Civil War Actor",
-			"system": "sandbox",
+			"system": ["sandbox"],
 			"path": "./packs/civil-war-actor.db",
 			"entity": "Actor"
 			},
 			{
 			"name": "civil-war-item",
 			"label": "Civil War Item",
-			"system": "sandbox",
+			"system": ["sandbox"],
 			"path": "./packs/civil-war-item.db",
 			"entity": "Item"
 			}
