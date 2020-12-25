@@ -7,8 +7,8 @@
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion": "0.7.9",
 	"url": "https://github.com/Leonidas1958/GBACW/",
-	"manifest": "https://github.com/Leonidas1958/GBACW/master/module.json",
-	"download": "https://github.com/Leonidas1958/GBACW/master/module.zip",
+	"manifest": "https://github.com/Leonidas1958/GBACW/main/module.json",
+	"download": "https://github.com/Leonidas1958/GBACW/main/module.zip",
 	"module": "civil-war-sheet",
 	
 	"packs": [{
