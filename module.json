@@ -8,7 +8,6 @@
 	"compatibleCoreVersion": "0.7.9",
 	"url": "https://github.com/Leonidas1958/GBACW/",
 	"manifest": "https://raw.githubusercontent.com/Leonidas1958/GBACW/master/module.json",
-	"download": "https://github.com/Leonidas1958/GBACW/archive/master.zip",
 	"module": "civil-war-sheet",
 	
 	"packs": [{
